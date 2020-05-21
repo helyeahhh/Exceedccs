@@ -1,3 +1,22 @@
+<h2>Here are the Instructions to install this project</h2>
+<h3>Install Composer Dependencies</h3>
+<p>-composer install</p>
+
+<h3>Install NPM Dependencies</h3>
+<p>-npm install</p>
+
+<h3>Rename .env.example to .env</h3>
+
+<h3>Modify .env file with your database configuration also modify config/database.php</h3>
+
+<h3>Generate an app encryption key</h3>
+<p>-php artisan key:generate</p>
+
+<h3>Start laravel application</h3>
+<p>-php artisan serve</p>
+
+<h4>type your localhost link your browser ex: http://127.0.0.1:8000/crud</h4>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
